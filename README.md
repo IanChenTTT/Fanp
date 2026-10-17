@@ -3,5 +3,6 @@
 ## Group preoject Demo
 
 ### Demo Video
-[![start]()](https://github.com/IanChenTTT/Fanp/blob/main/output2.mp4)
-[![end]()](https://github.com/IanChenTTT/Fanp/blob/main/output.mp4)
+
+1. [![Start](https://img.youtube.com/vi/-ATYljCmiOc/hqdefault.jpg)](https://youtu.be/-ATYljCmiOc)
+2. [![End](https://img.youtube.com/vi/ZCKUsTJtEt4/hqdefault.jpg)](https://youtu.be/ZCKUsTJtEt4)
